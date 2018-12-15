@@ -14,8 +14,8 @@ Replace the properties with mixin `unitize`:
 1. top/right/bottom/left
 2. height/min-height/max-height
 3. width/min-width/max-width
-4. padding-top/padding-right/padding-bottom/padding-right
-5. margin-top/margin-right/margin-bottom/margin-right
+4. padding-top/padding-right/padding-bottom/padding-left
+5. margin-top/margin-right/margin-bottom/margin-left
 6. font-size
 7. line-height
 
